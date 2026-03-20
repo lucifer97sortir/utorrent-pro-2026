@@ -1,0 +1,13 @@
+# uTorrent Nexus - Exclusions
+*.exe
+*.dll
+*.pdb
+.vs/
+x64/
+
+# User Data & Settings
+/Settings/
+/Resume_Data/
+/Cache/
+settings.dat
+resume.dat
